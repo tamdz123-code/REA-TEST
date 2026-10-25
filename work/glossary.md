@@ -1,0 +1,23 @@
+# Thuật ngữ BitLife Việt hóa (Glossary)
+
+- **BitLife**: BitLife (giữ nguyên tên game)
+- **Life / Lifeline**: Cuộc đời
+- **Age / Age Up**: Thêm 1 tuổi / Tròn tuổi
+- **Scenario**: Tình huống / Kịch bản
+- **Choice / Decision**: Lựa chọn / Quyết định
+- **Relationship**: Mối quan hệ
+- **Classmate**: Bạn cùng lớp
+- **Friend**: Bạn bè
+- **Parent / Mother / Father**: Bố mẹ / Mẹ / Bố
+- **Sibling / Brother / Sister**: Anh chị em / Anh (em) trai / Chị (em) gái
+- **Lover / Partner / Spouse**: Người yêu / Bạn đời / Vợ (chồng)
+- **Senior Center**: Viện dưỡng lão
+- **Fight Club**: Câu lạc bộ đấm bốc / Đấu trường chiến đấu
+- **Coach**: Huấn luyện viên
+- **Career / Job**: Sự nghiệp / Nghề nghiệp
+- **Salary**: Tiền lương
+- **Money / Bank balance**: Tiền tiết kiệm / Tài sản
+- **Crime**: Tội phạm / Phạm pháp
+- **Arrest**: Bắt giữ
+- **Prison / Jail**: Nhà tù / Trại giam
+- **Health / Happiness / Smarts / Looks**: Sức khỏe / Hạnh phúc / Thông minh / Ngoại hình
